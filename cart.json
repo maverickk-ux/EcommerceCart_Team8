@@ -1,0 +1,48 @@
+{
+    "yash": {
+        "Tank top (Small) - Red": {
+            "quantity": 1,
+            "price": 500.0
+        },
+        "T-Shirt (Small) - Red": {
+            "quantity": 1,
+            "price": 150.0
+        },
+        "Jeans (Medium) - Red": {
+            "quantity": 1,
+            "price": 100.0
+        },
+        "Belt (Small) - Red": {
+            "quantity": 4,
+            "price": 300.0
+        },
+        "Smartphone": {
+            "quantity": 2,
+            "price": 300.0
+        }
+    },
+    "TestUser": {
+        "Bananas": {
+            "quantity": 3,
+            "price": 0.5
+        },
+        "Bread": {
+            "quantity": 1,
+            "price": 2.5
+        },
+        "Milk": {
+            "quantity": 1,
+            "price": 5.0
+        },
+        "Tank top (Small) - Red": {
+            "quantity": 1,
+            "price": 500.0
+        }
+    },
+    "sample_user": {
+        "Smart Television": {
+            "quantity": 2,
+            "price": 500.0
+        }
+    }
+}
