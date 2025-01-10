@@ -1,5 +1,4 @@
 # EcommerceCart_Team8
-# CartSystemDraft
 
 Welcome to the **Cart System Project**! This project is a user-friendly eCommerce cart system designed to enhance the online shopping experience. With its intuitive interface and efficient backend, it offers seamless navigation from product selection to checkout.
 
